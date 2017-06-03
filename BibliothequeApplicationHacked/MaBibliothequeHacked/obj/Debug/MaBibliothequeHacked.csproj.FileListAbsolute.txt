@@ -1,0 +1,5 @@
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\1.Poo\BibliothequeApplicationHacked\MaBibliothequeHacked\obj\Debug\MaBibliothequeHacked.csprojResolveAssemblyReference.cache
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\1.Poo\BibliothequeApplicationHacked\MaBibliothequeHacked\bin\Debug\MaBibliotheque.dll
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\1.Poo\BibliothequeApplicationHacked\MaBibliothequeHacked\bin\Debug\MaBibliotheque.pdb
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\1.Poo\BibliothequeApplicationHacked\MaBibliothequeHacked\obj\Debug\MaBibliotheque.dll
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\1.Poo\BibliothequeApplicationHacked\MaBibliothequeHacked\obj\Debug\MaBibliotheque.pdb

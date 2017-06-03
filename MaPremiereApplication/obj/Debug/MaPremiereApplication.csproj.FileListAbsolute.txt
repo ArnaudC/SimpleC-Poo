@@ -1,0 +1,12 @@
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\1.Poo\MaPremiereApplication\bin\Debug\MaPremiereApplication.exe.config
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\1.Poo\MaPremiereApplication\bin\Debug\MaPremiereApplication.exe
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\1.Poo\MaPremiereApplication\bin\Debug\MaPremiereApplication.pdb
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\1.Poo\MaPremiereApplication\obj\Debug\MaPremiereApplication.csprojResolveAssemblyReference.cache
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\1.Poo\MaPremiereApplication\obj\Debug\MaPremiereApplication.exe
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\1.Poo\MaPremiereApplication\obj\Debug\MaPremiereApplication.pdb
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\1.Poo\MaPremiereApplication\bin\Debug\MaBibliotheque.dll
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\1.Poo\MaPremiereApplication\bin\Debug\MaBibliotheque.pdb
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\1.Poo\MaPremiereApplication\bin\Debug\AForge.dll
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\1.Poo\MaPremiereApplication\bin\Debug\AForge.Math.dll
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\1.Poo\MaPremiereApplication\bin\Debug\AForge.xml
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\1.Poo\MaPremiereApplication\bin\Debug\AForge.Math.xml

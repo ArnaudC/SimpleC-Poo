@@ -1,0 +1,5 @@
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\1.Poo\Attributs\bin\Debug\Attributs.exe.config
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\1.Poo\Attributs\bin\Debug\Attributs.exe
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\1.Poo\Attributs\bin\Debug\Attributs.pdb
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\1.Poo\Attributs\obj\Debug\Attributs.exe
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\1.Poo\Attributs\obj\Debug\Attributs.pdb
